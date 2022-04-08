@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+> SRE: Site Reliability Engineering
+
+- https://sre.google/
+- [SRE 是什么，不是什么](https://zhuanlan.zhihu.com/p/20695070)
+
+
 <!--
 
 **Here are some ideas to get you started:**
