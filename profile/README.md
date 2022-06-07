@@ -1,5 +1,5 @@
 
-## Related: 
+## Related 🍄
 
 - 😄 欢迎也使用我的其他语言的项目.
 
@@ -47,7 +47,7 @@
 
 
 
-## Hot Projects:
+## Hot Projects 🔥
 
 - https://github.com/better-sre/config
 
