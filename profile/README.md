@@ -5,6 +5,7 @@
 
 | 组织 | 说明     | 备注       |
 | :--------------| :----------------- | :--------- |
+| [better-try](https://github.com/better-try) |  Awesome App Products | ⭐⭐⭐⭐⭐ |
 | [better-dart](https://github.com/better-dart) |  Flutter/Dart 相关 | ⭐⭐⭐⭐⭐ |
 | [better-rs](https://github.com/better-rs/) | Rust 相关 | ⭐⭐⭐⭐⭐ |
 | [better-go](https://github.com/better-go) | Golang 相关 | ⭐⭐⭐⭐⭐ |
